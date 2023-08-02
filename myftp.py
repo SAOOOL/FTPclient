@@ -161,8 +161,3 @@ if response.startswith('230'):
 
         else:
             print(f'Error: command "{command}" not supported.')
-
-
-#python myftp.py inet.cs.fiu.edu
-# user: demo
-# pass demopass
